@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LaurenMiller0
-- 👀 I’m interested in all data science topics
+- 👀 I’m interested in data science
 - 🌱 I’m currently a MS Data Science student at Drexel University
-- 💞️ I’m looking to collaborate on any projects to gain as much knowledge as possible
+- 💞️ I’m looking to learn as much as possible
 - 📫 How to reach me is by email: lem324@drexel.edu
 
 <!---
